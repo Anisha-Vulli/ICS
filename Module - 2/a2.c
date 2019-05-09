@@ -3,7 +3,7 @@
 #include <stdlib.h>
 long exponent(int base, int expo) {
 	long ans = 1;
-	if (exp == 0)
+	if (expo == 0)
 	{
 		return 1;
 	}
